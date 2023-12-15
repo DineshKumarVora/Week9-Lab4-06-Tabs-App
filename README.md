@@ -1,3 +1,3 @@
 #### IN ACTION
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Week9-Lab4-06-Tabs-App
